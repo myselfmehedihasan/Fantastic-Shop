@@ -301,6 +301,7 @@ header {
     min-height: 200px;
     /* border: 2px solid green; */
     gap: 5px;
+    padding-bottom: 10px;
   }
 
   .footer-item img{
